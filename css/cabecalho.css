@@ -1,0 +1,47 @@
+*{
+    margin: 0; padding: 0;
+    font-family: 'Great Vibes', sans-serif;
+}
+header{
+    flex-direction: row;
+    width: 100%;
+    background: #FF6666;
+}
+.menu{
+    background-color: #FF6666;
+}
+.menu > div > ul{
+    list-style: none;
+    display: flex;
+}
+.menu > div > ul{
+    padding: 5px;
+}
+.menu-link{
+    color:#000000;
+    text-decoration: none;
+    padding: 5px;
+    font-size: 25px;
+}
+.menu-link:hover{
+    text-decoration: underline;
+}
+/*Fim do menu*/
+
+/*Começo do titulo*/
+.titulo{  
+    color: #000000;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    font-size: 60px;
+    text-shadow: 1px 1px 1px #000000cc;
+}
+.sub-titulo{
+    font-size: 30px;
+    
+}
+.box{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
