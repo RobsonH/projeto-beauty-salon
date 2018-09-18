@@ -1,0 +1,30 @@
+.titulo-curso{
+    font-size: 27px;
+    text-align: center;
+    font-family: 'Slabo 27px', serif;
+}
+.box-cursos{
+    box-sizing: border-box;
+    width: 300px;
+    padding: 10px;
+}
+
+.botao{
+    background-color: #c0392b;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    display: block;
+    border: 0;
+    margin: 0 auto;
+    width: 85%;
+    
+}
+.box-conteudo{
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.titulo-cu{
+    font-family:'Lora 27px', serif;
+}

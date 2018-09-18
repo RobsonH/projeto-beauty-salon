@@ -1,0 +1,5 @@
+.box-contato{
+    display: block;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
