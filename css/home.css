@@ -1,0 +1,23 @@
+.titulo-conteudo{
+    text-align: center;
+    font-size: 35px;
+}
+.imagem{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box-conteudo{
+    box-sizing: border-box;
+    width: 300px;
+    padding: 10px;
+    justify-content: space-between;
+}
+.box-contem{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}

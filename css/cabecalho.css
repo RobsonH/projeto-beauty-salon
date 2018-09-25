@@ -1,14 +1,14 @@
 *{
     margin: 0; padding: 0;
-    font-family: 'Great Vibes', sans-serif;
 }
 header{
     flex-direction: row;
     width: 100%;
-    background: #FF6666;
+    background: linear-gradient(#a34141, #FF7373);
+    justify-content: space-around;
 }
 .menu{
-    background-color: #FF6666;
+    background:(#FF7373);
 }
 .menu > div > ul{
     list-style: none;
@@ -22,6 +22,7 @@ header{
     text-decoration: none;
     padding: 5px;
     font-size: 25px;
+   font: 'Open Sans Condensed', sans-serif;
 }
 .menu-link:hover{
     text-decoration: underline;
@@ -35,9 +36,11 @@ header{
     padding-bottom: 10px;
     font-size: 60px;
     text-shadow: 1px 1px 1px #000000cc;
+    font-family: 'Great Vibes';
 }
 .sub-titulo{
     font-size: 30px;
+    font-family: 'Great Vibes';
     
 }
 .box{

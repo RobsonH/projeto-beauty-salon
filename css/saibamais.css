@@ -1,0 +1,15 @@
+.conteudo{
+    font-family: 'Open Sans';
+}
+.botaoAssinar{
+    background-color: #c0392b;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    display: block;
+    border: 0;
+    margin: 0 auto;
+    width: 85%;
+    
+}
