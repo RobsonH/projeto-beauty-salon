@@ -1,10 +1,9 @@
 .rodape{
-    background-color: #A9A4A4;
+    background: linear-gradient(#FF7373, #a34141);
     color: #ffffff;
     padding-top: 15px;
-    padding-bottom: 70px
-    
-    
+    padding-bottom: 70px;
+    display: block;
     }
     
     ·texto-rodape{
@@ -13,4 +12,14 @@
     .imagem-rodape{
         width: 25px;
         height: 25px;
+    }
+    .contato{
+       display: block;
+        flex-direction: row;
+        text-align: justify;
+    
+    }
+    .frame{
+    text-align: end;
+    flex-direction: row-reverse;
     }
