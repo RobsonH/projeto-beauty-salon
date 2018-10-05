@@ -3,7 +3,9 @@
     color: #ffffff;
     padding-top: 15px;
     padding-bottom: 70px;
-    display: block;
+    display: flex;
+    justify-content:space-between ;
+ 
     }
     
     ·texto-rodape{
@@ -14,12 +16,11 @@
         height: 25px;
     }
     .contato{
-       display: block;
-        flex-direction: row;
-        text-align: justify;
+       
+        
     
     }
     .frame{
-    text-align: end;
-    flex-direction: row-reverse;
+ 
+   
     }

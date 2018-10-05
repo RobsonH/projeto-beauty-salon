@@ -21,8 +21,9 @@ header{
     color:#000000;
     text-decoration: none;
     padding: 5px;
-    font-size: 25px;
-   font: 'Open Sans Condensed', sans-serif;
+    font-size: 27px;
+    font-family: 'ABeeZee', sans-serif;
+  
 }
 .menu-link:hover{
     text-decoration: underline;

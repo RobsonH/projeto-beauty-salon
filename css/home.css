@@ -1,7 +1,7 @@
 .titulo-conteudo{
     text-align: center;
-    font-size: 35px;
-    font-family:'Charmonman';
+    font-size: 45px;
+    font-family:'Dancing Script';
 }
 .imagem{
     display: flex;
@@ -18,6 +18,9 @@
     flex-direction: row-reverse 
 }
 .fora-produtos{
+    display: flex;
+}
+.fora-noiva{
     display: flex;
 }
 
