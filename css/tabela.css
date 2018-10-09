@@ -1,0 +1,19 @@
+.tabela{
+    border: 1px #000 solid;
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+    font-family: 'Roboto' sans-serif;
+}
+.titulo-pagamento{
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Roboto' sans-serif;
+}
+.tabela th, .tabela td{
+    border: 1px #000 solid;
+    padding: 10px;
+}
+.tabela th{
+    color: #c0392b;
+}
