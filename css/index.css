@@ -2,26 +2,33 @@
     text-align: center;
     font-size: 45px;
     font-family:'Dancing Script';
+    padding: 20px;
 }
 .imagem{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    padding: 20px;
 
 }
 .texto{
     justify-content: center;
     text-align: center;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
 }
 .fora-titulo{
     display: flex;
-    flex-direction: row-reverse 
+    flex-direction: row-reverse;
+    padding: 20px;
 }
 .fora-produtos{
     display: flex;
+    padding: 20px;
 }
 .fora-noiva{
     display: flex;
+    padding: 20px;
 }
 
 .box-conteudo{
@@ -37,4 +44,7 @@
     text-align: center;
     max-width: 1200px;
     margin: 0 auto;
+}
+.paragrafo{
+    font-family: 'Roboto', sans-serif;
 }

@@ -1,7 +1,7 @@
 .titulo-curso{
     font-size: 27px;
     text-align: center;
-    font-family: 'Slabo 27px', serif;
+    font-family: 'Roboto', sans-serif;
 }
 .box-cursos{
     box-sizing: border-box;
@@ -26,5 +26,5 @@
     flex-wrap: wrap;
 }
 .titulo-cu{
-    font-family:'Lora 27px', serif;
+    font-family:'Roboto',sans-serif;
 }
